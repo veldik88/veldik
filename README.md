@@ -1,0 +1,2 @@
+# veldik
+ my_study
